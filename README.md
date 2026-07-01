@@ -130,12 +130,10 @@ Regroupe différents projets de développement et d'expérimentation.
 
 ---
 
-# 🏆 Trophées GitHub
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aldadj&theme=algolia&row=1&column=6"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldadj&theme=tokyo-night" />
 </p>
 
 ---
@@ -152,7 +150,7 @@ Regroupe différents projets de développement et d'expérimentation.
 
 📞 Téléphone : **+226 71 23 72 67**
 
-📧 Email : **VOTRE_EMAIL**
+📧 Email : **alisnybelem@gmail.com**
 
 🌐 GitHub : **https://github.com/aldadj**
 
